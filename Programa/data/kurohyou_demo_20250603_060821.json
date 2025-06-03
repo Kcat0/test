@@ -1,0 +1,383 @@
+{
+  "metadata": {
+    "generated": "2025-06-03T06:08:21.845926",
+    "extractor": "Kurohyou CSV Extractor Demo",
+    "version": "1.0",
+    "source_file": "ca01_01.csv"
+  },
+  "data": {
+    "filename": "ca01_01.csv",
+    "filepath": "/workspace/user_input_files/ca01_01.csv",
+    "lines": [
+      {
+        "line_id": 1,
+        "start_time": 542,
+        "end_time": 596,
+        "text": "マジでヤル気なのかよ？",
+        "duration": 54,
+        "is_pause": false
+      },
+      {
+        "line_id": 2,
+        "start_time": 639,
+        "end_time": 703,
+        "text": "雄介… お前ビビッてんのか？",
+        "duration": 64,
+        "is_pause": false
+      },
+      {
+        "line_id": 3,
+        "start_time": 821,
+        "end_time": 877,
+        "text": "ち… チゲーよ",
+        "duration": 56,
+        "is_pause": false
+      },
+      {
+        "line_id": 4,
+        "start_time": 892,
+        "end_time": 951,
+        "text": "怖いんなら 降りろ",
+        "duration": 59,
+        "is_pause": false
+      },
+      {
+        "line_id": 5,
+        "start_time": 951,
+        "end_time": 1006,
+        "text": "…ヘタレが",
+        "duration": 55,
+        "is_pause": false
+      },
+      {
+        "line_id": 6,
+        "start_time": 1022,
+        "end_time": 1091,
+        "text": "おい！ 今なんつった!?",
+        "duration": 69,
+        "is_pause": false
+      },
+      {
+        "line_id": 7,
+        "start_time": 1109,
+        "end_time": 1174,
+        "text": "なんだ！ やんのかよ？",
+        "duration": 65,
+        "is_pause": false
+      },
+      {
+        "line_id": 8,
+        "start_time": 1180,
+        "end_time": 1261,
+        "text": "やめろよ… お前ら",
+        "duration": 81,
+        "is_pause": false
+      },
+      {
+        "line_id": 9,
+        "start_time": 1373,
+        "end_time": 1413,
+        "text": "天馬…",
+        "duration": 40,
+        "is_pause": false
+      },
+      {
+        "line_id": 10,
+        "start_time": 1413,
+        "end_time": 1473,
+        "text": "オメェもビビッてんなら降りろよ",
+        "duration": 60,
+        "is_pause": false
+      },
+      {
+        "line_id": 11,
+        "start_time": 1492,
+        "end_time": 1587,
+        "text": "な… 龍也 テメェ…",
+        "duration": 95,
+        "is_pause": false
+      },
+      {
+        "line_id": 12,
+        "start_time": 1673,
+        "end_time": 1718,
+        "text": "ホラ見ろ",
+        "duration": 45,
+        "is_pause": false
+      },
+      {
+        "line_id": 13,
+        "start_time": 1718,
+        "end_time": 1777,
+        "text": "だから 俺は龍也の話なんか",
+        "duration": 59,
+        "is_pause": false
+      },
+      {
+        "line_id": 14,
+        "start_time": 1777,
+        "end_time": 1849,
+        "text": "乗るのはイヤだっつったんだよ！",
+        "duration": 72,
+        "is_pause": false
+      },
+      {
+        "line_id": 15,
+        "start_time": 1849,
+        "end_time": 1912,
+        "text": "なっ！ やっぱコイツは",
+        "duration": 63,
+        "is_pause": false
+      },
+      {
+        "line_id": 16,
+        "start_time": 1912,
+        "end_time": 1969,
+        "text": "昔から最低な野郎のままだ",
+        "duration": 57,
+        "is_pause": false
+      },
+      {
+        "line_id": 17,
+        "start_time": 1990,
+        "end_time": 2024,
+        "text": "なんだと？",
+        "duration": 34,
+        "is_pause": false
+      },
+      {
+        "line_id": 18,
+        "start_time": 2037,
+        "end_time": 2074,
+        "text": "喧嘩しか能のねぇ",
+        "duration": 37,
+        "is_pause": false
+      },
+      {
+        "line_id": 19,
+        "start_time": 2074,
+        "end_time": 2135,
+        "text": "最低野郎だっつってんだよ！",
+        "duration": 61,
+        "is_pause": false
+      },
+      {
+        "line_id": 20,
+        "start_time": 2228,
+        "end_time": 2278,
+        "text": "ヘタレが！",
+        "duration": 50,
+        "is_pause": false
+      },
+      {
+        "line_id": 21,
+        "start_time": 2278,
+        "end_time": 2330,
+        "text": "調子乗ってんじゃねぇぞ コラ!!",
+        "duration": 52,
+        "is_pause": false
+      },
+      {
+        "line_id": 22,
+        "start_time": 2365,
+        "end_time": 2430,
+        "text": "何すんだよ！",
+        "duration": 65,
+        "is_pause": false
+      },
+      {
+        "line_id": 23,
+        "start_time": 2430,
+        "end_time": 2475,
+        "text": "そうやって 何でも",
+        "duration": 45,
+        "is_pause": false
+      },
+      {
+        "line_id": 24,
+        "start_time": 2475,
+        "end_time": 2504,
+        "text": "すぐブチ切れて済ます",
+        "duration": 29,
+        "is_pause": false
+      },
+      {
+        "line_id": 25,
+        "start_time": 2504,
+        "end_time": 2550,
+        "text": "最低野郎だから",
+        "duration": 46,
+        "is_pause": false
+      },
+      {
+        "line_id": 26,
+        "start_time": 2550,
+        "end_time": 2609,
+        "text": "誰もついて来ねぇんだよ！",
+        "duration": 59,
+        "is_pause": false
+      },
+      {
+        "line_id": 27,
+        "start_time": 2621,
+        "end_time": 2648,
+        "text": "テメェ！",
+        "duration": 27,
+        "is_pause": false
+      },
+      {
+        "line_id": 28,
+        "start_time": 2673,
+        "end_time": 2691,
+        "text": "どけ！",
+        "duration": 18,
+        "is_pause": false
+      },
+      {
+        "line_id": 29,
+        "start_time": 2705,
+        "end_time": 2761,
+        "text": "…言いたかねぇけどよ",
+        "duration": 56,
+        "is_pause": false
+      },
+      {
+        "line_id": 30,
+        "start_time": 2766,
+        "end_time": 2781,
+        "text": "あ？",
+        "duration": 15,
+        "is_pause": false
+      },
+      {
+        "line_id": 31,
+        "start_time": 2794,
+        "end_time": 2822,
+        "text": "オマエ",
+        "duration": 28,
+        "is_pause": false
+      },
+      {
+        "line_id": 32,
+        "start_time": 2822,
+        "end_time": 2881,
+        "text": "高校も その言葉にブチ切れて",
+        "duration": 59,
+        "is_pause": false
+      },
+      {
+        "line_id": 33,
+        "start_time": 2881,
+        "end_time": 2926,
+        "text": "辞めさせられたじゃねぇか",
+        "duration": 45,
+        "is_pause": false
+      },
+      {
+        "line_id": 34,
+        "start_time": -1,
+        "end_time": -1,
+        "text": "……",
+        "duration": 0,
+        "is_pause": true
+      },
+      {
+        "line_id": 35,
+        "start_time": 2968,
+        "end_time": 3038,
+        "text": "な… 頭冷やせよ",
+        "duration": 70,
+        "is_pause": false
+      },
+      {
+        "line_id": 36,
+        "start_time": 3116,
+        "end_time": 3172,
+        "text": "テメェも そう思ってんだろがぁ!!",
+        "duration": 56,
+        "is_pause": false
+      },
+      {
+        "line_id": 37,
+        "start_time": 3242,
+        "end_time": 3326,
+        "text": "龍也… 無理だわ",
+        "duration": 84,
+        "is_pause": false
+      },
+      {
+        "line_id": 38,
+        "start_time": 3326,
+        "end_time": 3392,
+        "text": "つき合い切れねぇ…",
+        "duration": 66,
+        "is_pause": false
+      },
+      {
+        "line_id": 39,
+        "start_time": 3392,
+        "end_time": 3417,
+        "text": "行くぞ",
+        "duration": 25,
+        "is_pause": false
+      },
+      {
+        "line_id": 40,
+        "start_time": 3448,
+        "end_time": 3495,
+        "text": "１人で勝手に死ね！",
+        "duration": 47,
+        "is_pause": false
+      },
+      {
+        "line_id": 41,
+        "start_time": 3495,
+        "end_time": 3543,
+        "text": "最低のクズ野郎が!!",
+        "duration": 48,
+        "is_pause": false
+      },
+      {
+        "line_id": 42,
+        "start_time": -1,
+        "end_time": -1,
+        "text": "……",
+        "duration": 0,
+        "is_pause": true
+      },
+      {
+        "line_id": 43,
+        "start_time": 3656,
+        "end_time": 3714,
+        "text": "仲間なんて… いらねぇ",
+        "duration": 58,
+        "is_pause": false
+      },
+      {
+        "line_id": 44,
+        "start_time": 3759,
+        "end_time": 3813,
+        "text": "俺に必要なのは…",
+        "duration": 54,
+        "is_pause": false
+      },
+      {
+        "line_id": 45,
+        "start_time": 3813,
+        "end_time": 3851,
+        "text": "チカラだけだ",
+        "duration": 38,
+        "is_pause": false
+      }
+    ],
+    "stats": {
+      "total_lines": 45,
+      "dialogue_lines": 43,
+      "pause_lines": 2,
+      "total_chars": 389,
+      "avg_chars": 9.046511627906977,
+      "total_duration": 2266,
+      "avg_duration": 52.69767441860465
+    }
+  }
+}

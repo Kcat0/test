@@ -1,0 +1,32 @@
+{
+  "ca01_01.csv": {
+    "filename": "ca01_01.csv",
+    "lines": [
+      {
+        "line_id": 1,
+        "start_time": 542,
+        "end_time": 596,
+        "text": "マジでヤル気なのかよ？",
+        "duration": 54,
+        "is_pause": false
+      },
+      {
+        "line_id": 2,
+        "start_time": -1,
+        "end_time": -1,
+        "text": "……",
+        "duration": 0,
+        "is_pause": true
+      }
+    ],
+    "stats": {
+      "total_lines": 2,
+      "dialogue_lines": 1,
+      "pause_lines": 1,
+      "total_chars": 11,
+      "avg_chars": 11.0,
+      "total_duration": 54,
+      "avg_duration": 54.0
+    }
+  }
+}
